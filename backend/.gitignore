@@ -90,5 +90,3 @@ buildNumber.properties
 src/main/java/x/utils/
 src/main/resources/
 src/test/
-
-.idea
